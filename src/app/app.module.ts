@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
-import {FormlyModule, FormlyBootstrapModule} from 'ng2-formly';
+import {FormlyModule, FormlyBootstrapModule} from 'ng-formly';
 
 import { AppComponent } from './app.component';
 
